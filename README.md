@@ -1,6 +1,6 @@
 # order of log(n)
 
-Competetive questions from websites lie Hackerrank, Codechef, SPOJ, Codeforces, InterviewBit, GeeksforGeeks and LeetCode would be updated in this repo.
+A repository for questions from various competetive websites : Hackerrank, SPOJ, CodeForces, CodeChef, Leetcode, InterviewBit and GeeksforGeeks.
 
 Languages :
  C++,
